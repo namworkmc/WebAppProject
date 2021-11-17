@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 .box {
   width: 300px;
   padding: 40px;
@@ -16,6 +17,7 @@ body {
   top: 50%;
   left: 50%;
   border-radius: 10%;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
   transform: translate(-50%, -50%);
   background: #333333;
   text-align: center;
@@ -25,6 +27,7 @@ body {
   text-transform: uppercase;
   font-weight: 500;
 }
+
 .box input[type="text"],
 .box input[type="password"] {
   border: 0;
@@ -71,6 +74,6 @@ body {
   color: #4caf50;
   text-decoration: none;
 }
-/*.box .register-form {
+.box .register-form {
   display: none;
-}*/
+}
