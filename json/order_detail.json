@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "619be37c221853252ecb51a2"
+  },
+  "product_id": {
+    "$oid": "619beadd221853252ecb51a6"
+  },
+  "quantity": 1,
+  "order_id": {
+    "$oid": "619be684cd94e868c05a0f3d"
+  }
+}]

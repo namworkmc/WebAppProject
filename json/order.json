@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "619be241221853252ecb51a1"
+  },
+  "name": "MSI",
+  "status": "Đợi giao",
+  "shipping_fee": 50000,
+  "price": 22000000.5,
+  "address": "562/Lê Quang Định, F.1, Gò Vấp",
+  "customer_id": {
+    "$oid": "619be3de221853252ecb51a3"
+  },
+  "payment": "COD",
+  "date": {
+    "$date": "2021-04-18T17:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "619bebd7cd94e868c05a0f64"
+  },
+  "name": "Acer Nitro 5 Eagle AN515 57 56S5",
+  "status": "Đang giao",
+  "shipping_fee": 50000,
+  "price": 26000000.5,
+  "address": "227 Nguyễn Văn Cừ, Quận 5",
+  "customer_id": {
+    "$oid": "619be3de221853252ecb51a3"
+  },
+  "payment": "Bank",
+  "date": {
+    "$date": "2021-06-28T17:00:00Z"
+  }
+}]

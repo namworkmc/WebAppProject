@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "619beadd221853252ecb51a6"
+  },
+  "name": "Laptop Gaming Acer Nitro 5 AN515 57 56S5",
+  "CPU": "Intel® Core i5-11400H upto 4.50 GHz, 6 nhân 12 luồng",
+  "RAM": "8GB DDR4 3200MHz (2 slot SO-DIMM socket, nâng cấp tối đa 32GB SDRAM)",
+  "disk": "512GB SSD M.2 PCIE (nâng cấp tối đa 1TB SSD PCIe Gen3, 8 Gb/s, NVMe và 2TB HDD 2.5-inch 5400 RPM) (Còn trống 1 khe SSD M.2 PCIE và 1 khe 2.5 SATA)",
+  "graphic_card": "NVIDIA® GeForce GTX™ 1650 4GB GDDR6",
+  "screen": "15.6 inch FHD(1920 x 1080) IPS 144Hz SlimBezel",
+  "port": "3x USB 3.1 Gen 1, 1x USB 3.2 Gen 2 Type C, 1x HDMI, RJ45",
+  "optical_disk": "None",
+  "audio": "Waves MaxxAudio®, Acer TrueHarmony™",
+  "keyboard": "Đơn sắc đỏ",
+  "read_mem_card": "None",
+  "LAN": "10/100/1000/Gigabits Base T",
+  "WIFI": "802.11AX (2x2)",
+  "bluetooth": "Bluetooth® 5.1",
+  "webcam": "HD Webcam",
+  "os": "Windows 11 Home",
+  "pin": "Cell 57.5WHr",
+  "weight": 2.2,
+  "color": "Đen",
+  "size": "363.4 x 255 x 23.9 mm",
+  "orgin": "Chính hãng",
+  "price": "23900000",
+  "producer": "Acer",
+  "stock": 5,
+  "discount": {
+    "$oid": "619d3726205276dffe1c4533"
+  },
+  "offer": {
+    "$oid": "619d359b9f050dcfa55252d8"
+  }
+},{
+  "_id": {
+    "$oid": "619bed81cd94e868c05a0f77"
+  },
+  "name": "Laptop Lenovo V15 G2 ITL 82KB00CUVN",
+  "stock": 14,
+  "price": 17690000,
+  "producer": "Lenovo",
+  "orgin": "Chính hãng",
+  "CPU": "Intel Core i5-1135G7 ",
+  "RAM": "8GB DDR4 3200MHz onboard (dư 1 slot nâng cấp)",
+  "SSD": "512GB SSD M.2 PCIe",
+  "graphic_card": "Intel UHD Graphics",
+  "screen": "15.6inch FHD (1920 x 1080) TN, 250nits, Anti-glare, 45% NTSC",
+  "port": "1x Power connector 1x Ethernet (RJ-45) 1x USB 3.2 Gen 1 1x USB-C 3.2 Gen 1 (support data transfer only) 1x HDMI 1.4b 1x Headphone / microphone combo jack (3.5mm) 1x USB 2.0",
+  "keyboard": "Bàn phím tiêu chuẩn",
+  "LAN": "Không hỗ trợ",
+  "WIFI": "WiFi 5 (AC)",
+  "bluetooth": "Bluetooth® 5.0",
+  "webcam": "720p ",
+  "os": "Windows 10 Home",
+  "pin": "2 Cells 38WHrs",
+  "weight": 1.7,
+  "color": "Đen",
+  "size": "359.2 x 235.8 x 19.9 mm",
+  "offer": {
+    "$oid": "619d359b9f050dcfa55252d8"
+  },
+  "discount": {
+    "$oid": "619d36369f050dcfa55252d9"
+  }
+}]

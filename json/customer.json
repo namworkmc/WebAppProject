@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "619be3de221853252ecb51a3"
+  },
+  "name": "Phương Anh",
+  "phone": "0988012170",
+  "address": "86 Nguyên Hồng, F.1, Quận Gò Vấp",
+  "email": "yuuhizaka194@gmail.com"
+},{
+  "_id": {
+    "$oid": "619be58ccd94e868c05a0f21"
+  },
+  "name": "Anh Khoa",
+  "phone": "098525195",
+  "address": "851 Gia Lai",
+  "email": "pakhoa19@clc.fit.edu.vn"
+}]

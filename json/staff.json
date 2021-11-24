@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "619be4c8221853252ecb51a4"
+  },
+  "name": "Đức Nam",
+  "phone": "0988012177",
+  "address": "227 Nguyễn Văn Cừ P4 Q5 TPHCM",
+  "email": "ndnam19@clc.fitus.edu.vn"
+},{
+  "_id": {
+    "$oid": "619beb69cd94e868c05a0f56"
+  },
+  "name": "Nhật Cường",
+  "phone": "0988012177",
+  "address": "227 Nguyễn Văn Cừ P4 Q5 TPHCM",
+  "email": "nncuong19@clc.fitus.edu.vn"
+}]
